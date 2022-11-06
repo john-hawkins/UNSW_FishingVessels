@@ -2,12 +2,12 @@
 
 To run the code in this project you will need the file drifting_longlines.csv from the RodneyProjects DropBox folder.
 
-Data was originall downloaded from [Global Fishing Watch](https://globalfishingwatch.org/datasets-and-code/)
+Data was originally downloaded from [Global Fishing Watch](https://globalfishingwatch.org/datasets-and-code/)
 
 ## Colab Execution
 
 Copy this file into the root of the Google Drive.
-The open the notebook [cartoPy.ipynb](cartoPy.ipynb) in Google Colab.
+Then open the notebook [cartoPy.ipynb](cartoPy.ipynb) in Google Colab.
 
 
 ## Local Execution
