@@ -23,7 +23,15 @@ Start with some simple data exploration to understand what we have:
 jupyter notebook exploration.ipynb
 ```
 
+## Documentation
 
+Rodney is suggesting that we look at implementing something similar to this
+package to de-noise the trajectory data before using it in a model. That is
+the goal of the clustering he has been suggesting.
+
+https://cran.r-project.org/web/packages/trajectories/vignettes/article.pdf
+
+We need to digest this and determine how to apply these ideas.
 
 
 
